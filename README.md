@@ -10,7 +10,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) web app that allows users t
 - 📝 Complaint submission with tracking
 - 💬 User–Agent chat
 - 📬 Real-time status updates
-- 🛡️ Secure session-based authentication
+- 🛡️ Secure session-based authentication 
 
 ---
 
